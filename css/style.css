@@ -110,6 +110,11 @@ img {
     text-align: center;
 }
 
+.tea_section .teaWords .tea_para h1 {
+    font-weight: 400;
+    line-height: 1.5;
+}
+
 .tea_section .teaProduct {
     margin-top: 75px;
     margin-bottom: 75px;
